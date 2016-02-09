@@ -1,0 +1,4 @@
+dn: ou=Example,dc=national,dc=com,dc=au
+objectClass: top
+objectClass: organizationalPerson
+ou: Example
